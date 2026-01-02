@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "我逢人",
+  "base_artist": "Mrs. GREEN APPLE",
+  "createdAt": "2026-01-02T01:50:20.331644Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "我逢人",
+      "artist": "Mrs. Green Apple",
+      "has_synced": true,
+      "path": "select/01_我逢人_Mrs._Green_Apple.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "我逢人",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/pl_01_我逢人_Mrs._GREEN_APPLE.txt"
+    }
+  ]
+}
